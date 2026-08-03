@@ -2,6 +2,7 @@
 
 A full-stack SAP portfolio project demonstrating end-to-end development from database layer to production-ready Fiori UI, built on the SAP BTP Trial environment.
 
+<img width="1424" height="579" alt="FIORI_PREVIEW" src="https://github.com/user-attachments/assets/5540d085-0b41-448b-995f-8dbe280802a4" />
 
 
 ## 🎥 Demo Video
