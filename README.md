@@ -68,12 +68,9 @@ code:
 
 ## Screenshots
 
-| List Report — Overdue Invoices | Object Page Detail |
-|---|---|
-<img width="1438" height="580" alt="table_sampledata" src="https://github.com/user-attachments/assets/9fb64625-3af9-4fdf-b593-9fa75ec90dce" />
-<img width="540" height="548" alt="CDS_BASIC ZI_OVERDUE" src="https://github.com/user-attachments/assets/77f3c41e-d1b5-419f-90e7-86fd42294c04" />
-<img width="540" height="548" alt="CDS_BASIC ZI_OVERDUE" src="https://github.com/user-attachments/assets/5be49f4d-2800-40cc-b377-62a77286ef23" />
-<img width="748" height="695" alt="ZC_VIEW" src="https://github.com/user-attachments/assets/6f0af565-a905-4054-a20c-535b75261d00" />
+| SAP Eclipse Package View | Basic CDS View (Interface) | Consumption View |
+|---|---|---|
+| <img width="300" alt="SAP Eclipse Package View" src="https://github.com/user-attachments/assets/9fb64625-3af9-4fdf-b593-9fa75ec90dce" /> | <img width="300" alt="Basic CDS View" src="https://github.com/user-attachments/assets/77f3c41e-d1b5-419f-90e7-86fd42294c04" /> | <img width="300" alt="Consumption View" src="https://github.com/user-attachments/assets/6f0af565-a905-4054-a20c-535b75261d00" /> |
 
 
 ## What This Project Demonstrates
